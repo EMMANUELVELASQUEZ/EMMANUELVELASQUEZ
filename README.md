@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola, soy [Emmanuel Velásquez Gerón]! 👋
+# 👨‍💻 ¡Hola, soy Emmanuel Velásquez Gerón! 👋
 
 🚀 **Desarrollador Full Stack | Apasionado por el código limpio y los retos tecnológicos**
 
