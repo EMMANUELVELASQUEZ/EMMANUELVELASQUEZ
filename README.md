@@ -22,8 +22,8 @@ C#         ▓▓▓▓▓▓░░░░  70%
 Swift      ▓▓▓▓░░░░░░  60%
 
 
-     (\__/)
-     (o•.•)   💻
+    (\__/)
+    (o•.•)   💻
     / >🕸️>   Soy el SpiderDev, tejo código en la red.
 
 ## Print("Hola sean bienvenidos");
