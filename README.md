@@ -12,12 +12,12 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]  
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/tu-cuenta](https://x.com/velasquez5528e?s=21))(https://x.com/velasquez5528e?s=21)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/tu-cuenta](https://x.com/velasquez5528e?s=21)) (https://x.com/velasquez5528e?s=21)
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/tu-cuenta](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/tu-cuenta](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr))(https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/c/tu-canal](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/c/tu-canal](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)) (https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)
 
 ---
 
