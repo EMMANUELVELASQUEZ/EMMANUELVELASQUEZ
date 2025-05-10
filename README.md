@@ -10,7 +10,7 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 ****#SIGUEME EN REDES SOCIALES****
 -----------------------
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/tu-pagina](https://www.facebook.com/share/16Y6QrsWwy/?mibextid=wwXIfr))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/tu-pagina](https://www.facebook.com/share/16Y6QrsWwy/?mibextid=wwXIfr))(https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/tu-pagina](https://www.facebook.com/share/16Y6QrsWwy/?mibextid=wwXIfr))
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/tu-cuenta](https://x.com/velasquez5528e?s=21))
 
