@@ -10,9 +10,9 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 ****#SIGUEME EN REDES SOCIALES****
 -----------------------
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/tu-pagina](https://www.facebook.com/share/16Y6QrsWwy/?mibextid=wwXIfr))(https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/tu-pagina](https://www.facebook.com/share/16Y6QrsWwy/?mibextid=wwXIfr))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]  
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/tu-cuenta](https://x.com/velasquez5528e?s=21))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/tu-cuenta](https://x.com/velasquez5528e?s=21))(https://x.com/velasquez5528e?s=21)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/tu-cuenta](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr))
@@ -23,6 +23,7 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 
 ```txt
 ## 🧠 Habilidades Técnicas
+
 Java       ▓▓▓▓▓▓▓▓▓▓ 100%
 Python     ▓▓▓▓▓▓▓▓▓░  90%
 Kotlin     ▓▓▓▓▓▓▓▓░░  85%
