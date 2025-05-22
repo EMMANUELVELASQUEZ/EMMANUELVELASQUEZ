@@ -1,7 +1,7 @@
 # 👨‍💻 ¡Hola, soy Emaster Dev! 👋
 # PROGRAMACIÓN EMASTER
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorio+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorios+que+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
 </p>
 
 <!-- Encabezado con estilo -->
