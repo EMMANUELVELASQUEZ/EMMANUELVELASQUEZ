@@ -33,6 +33,14 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/c/tu-canal](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)) (https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)
 
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-Sígueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
+[![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velasquez5528e?s=21)
+[![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr)
+[![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)
+
+
 ---
 
 ```txt
