@@ -10,7 +10,8 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 ****#SIGUEME EN REDES SOCIALES****
 -----------------------
 
-[![Facebook] (https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
+[![Sígueme en Facebook](https://img.shields.io/badge/Facebook-Sígueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]
+(https://facebook.com/emmanuelvelasquez.315428)
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/tu-cuenta](https://x.com/velasquez5528e?s=21)) (https://x.com/velasquez5528e?s=21)
 
