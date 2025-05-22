@@ -1,5 +1,4 @@
 # 👨‍💻 ¡Hola, soy Emaster Dev! 👋
-# PROGRAMACIÓN EMASTER
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorios+que+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
 </p>
@@ -22,18 +21,7 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 
 ****#SIGUEME EN REDES SOCIALES****
 -----------------------
-
-[![Sígueme en Facebook](https://img.shields.io/badge/Facebook-Sígueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]
-(https://facebook.com/emmanuelvelasquez.315428)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]([https://twitter.com/tu-cuenta](https://x.com/velasquez5528e?s=21)) (https://x.com/velasquez5528e?s=21)
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/tu-cuenta](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr))(https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/c/tu-canal](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)) (https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)
-
-
+# PROGRAMACIÓN EMASTER
 
 [![Facebook](https://img.shields.io/badge/Facebook-Sígueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
 [![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velasquez5528e?s=21)
