@@ -19,10 +19,6 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 <!-- Arte ASCII personalizado -->
 Este espacio no es solo una carpeta más con líneas de código; es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales.
 
-# 🚀 INGENIERÍA DE SOFTWARE: MI ARSENAL DE TECNOLOGÍAS ⚔️
-
-¡Bienvenido a mi *stack*! Aquí no solo escribimos código, **construimos el futuro**. Mi arsenal está preparado para cualquier desafío, desde el *frontend* interactivo hasta el *backend* de alto rendimiento y los sistemas empresariales robustos.
-
 ## 🔥 TECNOLOGÍAS CLAVE EN MIS PROYECTOS
 
 Dominio en lenguajes y herramientas que mueven el mundo digital:
@@ -33,16 +29,6 @@ Dominio en lenguajes y herramientas que mueven el mundo digital:
 | **Fuerza Bruta (Backend & Core)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" alt="Ruby"/> |
 | **Sistemas y Rendimiento (C/C++ & Swift)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/> |
 | **Dominio de Datos (SQL & MySQL)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> |
-
----
-
-### ✨ HABILIDADES Y CERTIFICACIONES (¡Presumiendo un poco!)
-
-*Reemplaza los textos y enlaces de estas insignias con tus logros reales.*
-
-[![Python Skill](https://img.shields.io/badge/Python-Experto-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java Skill](https://img.shields.io/badge/Java-Certificado-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![React Skill](https://img.shields.io/badge/React-Hooks_Master-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 
 ---
 
