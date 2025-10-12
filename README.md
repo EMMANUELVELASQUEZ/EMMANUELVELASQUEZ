@@ -1,4 +1,3 @@
-<img width="125" height="156" alt="Captura de pantalla 2025-10-12 a la(s) 5 04 50 p m" src="https://github.com/user-attachments/assets/02e188ca-8bad-43c6-892b-adc3a3e5660a" />
 # 👨‍💻 ¡Hola, soy Emaster Dev! 👋
 
 --
