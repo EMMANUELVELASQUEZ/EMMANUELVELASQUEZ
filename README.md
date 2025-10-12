@@ -19,6 +19,48 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 <!-- Arte ASCII personalizado -->
 Este espacio no es solo una carpeta más con líneas de código; es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales.
 
+# 🛠️ Mi Stack de Tecnologías y Herramientas 💻
+
+Un resumen de los principales lenguajes y herramientas que utilizo en mis proyectos:
+
+## 🌐 Desarrollo Web y Frontend
+
+| Tecnología | Logo |
+| :---: | :---: |
+| **HTML5** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> |
+| **CSS3** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> |
+| **JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> |
+| **React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> |
+
+## ⚙️ Backend y Lenguajes Principales
+
+| Tecnología | Logo |
+| :---: | :---: |
+| **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> |
+| **Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> |
+| **PHP** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/> |
+| **Kotlin** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/> |
+| **Ruby** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby"/> |
+| **Swift** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/> |
+
+## 🚀 Bajo Nivel y Sistemas
+
+| Tecnología | Logo |
+| :---: | :---: |
+| **C** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/> |
+| **C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> |
+| **COBOL** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/COBOL_logo.svg" width="40" height="40" alt="COBOL"/> |
+
+## 💾 Bases de Datos y Gestión
+
+| Herramienta | Logo |
+| :---: | :---: |
+| **SQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" alt="SQL"/> |
+| **MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> |
+| **phpMyAdmin** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" width="40" height="40" alt="phpMyAdmin"/> |
+
+---
+
 <!-- Encabezado con estilo -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO;+PROGRAMACI%C3%93N+EMASTER" />
