@@ -19,17 +19,44 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 <!-- Arte ASCII personalizado -->
 Este espacio no es solo una carpeta más con líneas de código; es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales.
 
-## Lenguajes, Frameworks y Herramientas
+# 🚀 INGENIERÍA DE SOFTWARE: MI ARSENAL DE TECNOLOGÍAS ⚔️
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Frontend/Web** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> |
-| **Backend/Core** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby"/> |
-| **Móvil/Sistemas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/> |
-| **Sistemas Legacy/Empresarial** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/COBOL_logo.svg" width="40" height="40" alt="COBOL"/> |
-| **Bases de Datos** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" width="40" height="40" alt="phpMyAdmin"/> |
+¡Bienvenido a mi *stack*! Aquí no solo escribimos código, **construimos el futuro**. Mi arsenal está preparado para cualquier desafío, desde el *frontend* interactivo hasta el *backend* de alto rendimiento y los sistemas empresariales robustos.
+
+## 🔥 TECNOLOGÍAS CLAVE EN MIS PROYECTOS
+
+Dominio en lenguajes y herramientas que mueven el mundo digital:
+
+| CATEGORÍA | TECNOLOGÍAS ASOMBROSAS |
+| :---: | :--- |
+| **Poder Web (Frontend & React)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/> |
+| **Fuerza Bruta (Backend & Core)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" alt="Ruby"/> |
+| **Sistemas y Rendimiento (C/C++ & Swift)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/> |
+| **Dominio de Datos (SQL & MySQL)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" width="45" height="45" alt="phpMyAdmin"/> |
 
 ---
+
+## 🤯 LO QUE REALMENTE TE ASOMBRARÁ: Legacy Modernizado
+
+No solo miro hacia el futuro, **mantengo los cimientos**. Mi habilidad para trabajar con **COBOL** garantiza que los sistemas críticos de la banca y la industria sigan funcionando, mientras los preparo para la modernización. ¡Pocos se atreven con esto!
+
+[![COBOL](https://img.shields.io/badge/COBOL-Mainframe_Power-blue?style=for-the-badge&logo=codepen&logoColor=white)](https://es.wikipedia.org/wiki/COBOL)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/COBOL_logo.svg" width="45" height="45" alt="COBOL"/>
+
+---
+
+### ✨ HABILIDADES Y CERTIFICACIONES (¡Presumiendo un poco!)
+
+*Reemplaza los textos y enlaces de estas insignias con tus logros reales.*
+
+[![Python Skill](https://img.shields.io/badge/Python-Experto-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java Skill](https://img.shields.io/badge/Java-Certificado-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![React Skill](https://img.shields.io/badge/React-Hooks_Master-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+
+---
+
+### 🌟 Mira mis Repositorios para Ver la Magia en Acción.
 <!-- Encabezado con estilo -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO;+PROGRAMACI%C3%93N+EMASTER" />
