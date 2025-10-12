@@ -1,4 +1,5 @@
-# 👨‍💻 ¡Hola, soy Emaster Dev! 👋
+<img width="445" height="396" alt="Captura de pantalla 2025-10-12 a la(s) 5 04 50 p m" src="https://github.com/user-attachments/assets/02e188ca-8bad-43c6-892b-adc3a3e5660a" />
+#👨‍💻 ¡Hola, soy Emaster Dev! 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorios+que+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
 </p>
