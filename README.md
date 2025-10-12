@@ -32,17 +32,7 @@ Dominio en lenguajes y herramientas que mueven el mundo digital:
 | **Poder Web (Frontend & React)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/> |
 | **Fuerza Bruta (Backend & Core)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" alt="Ruby"/> |
 | **Sistemas y Rendimiento (C/C++ & Swift)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/> |
-| **Dominio de Datos (SQL & MySQL)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" width="45" height="45" alt="phpMyAdmin"/> |
-
----
-
-## 🤯 LO QUE REALMENTE TE ASOMBRARÁ: Legacy Modernizado
-
-No solo miro hacia el futuro, **mantengo los cimientos**. Mi habilidad para trabajar con **COBOL** garantiza que los sistemas críticos de la banca y la industria sigan funcionando, mientras los preparo para la modernización. ¡Pocos se atreven con esto!
-
-[![COBOL](https://img.shields.io/badge/COBOL-Mainframe_Power-blue?style=for-the-badge&logo=codepen&logoColor=white)](https://es.wikipedia.org/wiki/COBOL)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/COBOL_logo.svg" width="45" height="45" alt="COBOL"/>
+| **Dominio de Datos (SQL & MySQL)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> |
 
 ---
 
