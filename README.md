@@ -42,6 +42,9 @@ Dominio en lenguajes y herramientas que mueven el mundo digital:
 </p>
 <img width="366" height="341" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/e6262faf-5ead-468d-8e6e-fe7da4db79ee" />
 <img width="366" height="341" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/022cf35e-090b-4653-9cf7-2b30d9c6cc56" />
+<img width="366" height="341" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/022cf35e-090b-4653-9cf7-2b30d9c6cc56" />
+
+
 
 
 
