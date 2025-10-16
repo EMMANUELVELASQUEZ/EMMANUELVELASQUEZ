@@ -11,9 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
 </p>
 
-
-
-🚀 **Desarrollador Full Stack | Apasionado por el código limpio y los retos tecnológicos**
+🚀 **Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
 
 Soy un desarrollador con experiencia en múltiples lenguajes de programación, desde los clásicos como **COBOL** y **C++**, hasta tecnologías modernas como **Solidity**, **JavaScript** y **Swift**. Me gusta construir soluciones que impacten, aprender todos los días, y colaborar en proyectos open source.
 
@@ -34,8 +32,6 @@ Dominio en lenguajes y herramientas que mueven el mundo digital:
 | **Dominio de Datos (SQL & MySQL)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> |
 
 ---
-
-### 🌟 Mira mis Repositorios para Ver la Magia en Acción.
 <!-- Encabezado con estilo -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO;+PROGRAMACI%C3%93N+EMASTER" />
@@ -45,18 +41,13 @@ Dominio en lenguajes y herramientas que mueven el mundo digital:
 <img width="250" height="250" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/022cf35e-090b-4653-9cf7-2b30d9c6cc56" />
 
 
-
-
-
 ****#SIGUEME EN REDES SOCIALES****
 -----------------------
-
 
 [![Facebook](https://img.shields.io/badge/Facebook-Sígueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
 [![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velasquez5528e?s=21)
 [![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr)
 [![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)
-
 
 ---
 
