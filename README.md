@@ -25,6 +25,7 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 [![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr)
 [![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)
 
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorios+que+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
 </p>
