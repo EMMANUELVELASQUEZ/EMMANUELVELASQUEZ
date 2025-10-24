@@ -1,6 +1,6 @@
 # 👨‍💻 ¡Hola, soy Emaster Dev! 👋 
 
-<img width="125" height="156" alt="Captura de pantalla 2025-10-12 a la(s) 5 04 50 p m" src="https://github.com/user-attachments/assets/02e188ca-8bad-43c6-892b-adc3a3e5660a"/>&nbsp;`Print("Programar se esribe programando");Print("Programar se esribe programando");Print("Programar se esribe programando");Print("Programar se esribe programando");`
+<img width="125" height="156" alt="Captura de pantalla 2025-10-12 a la(s) 5 04 50 p m" src="https://github.com/user-attachments/assets/02e188ca-8bad-43c6-892b-adc3a3e5660a"/>&nbsp;`Print("Programar se esribe programando")`
 
 
 [![INGENIERO EN DESARROLLO DE SOFTWARE](https://img.shields.io/badge/INGENIERO%20EN%20DESARROLLO%20DE%20SOFTWARE-1E90FF?style=for-the-badge&logo=codesandbox&logoColor=white)](https://github.com/[TuUsuario])  [![LICENCIADO EN TECNOLOGÍAS DE LA INFORMACIÓN EN LAS ORGANIZACIONES](https://img.shields.io/badge/LIC.%20EN%20TI%20EN%20LAS%20ORGANIZACIONES-1E90FF?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/[TuUsuario])
