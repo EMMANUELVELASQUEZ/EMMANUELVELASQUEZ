@@ -13,9 +13,9 @@
 
 # 🔥 Emmanuel Velásquez {EMASTER-DEV}: INNOVACIÓN Y ARQUITECTURA DIGITAL
 
-> **Ingeniero en Desarrollo de Software** 🛠️: Habilidad para construir la arquitectura robusta y escalable que el Frontend necesita para brillar.
->
-> **Licenciado en Tecnologías de la Información en las Organizaciones** 🌐: Perspectiva estratégica para optimizar flujos de trabajo y asegurar que las soluciones sean eficientes a nivel de infraestructura.
+> <span style="color:#00FF00; font-weight: bold;">Ingeniero de Software 🛠️:</span> Habilidad para construir la arquitectura robusta y escalable que el Frontend necesita para brillar.
+
+> <span style="color:#00FF00; font-weight: bold;">Licenciado en Tecnologías de la Información 🌐:</span> Perspectiva estratégica para optimizar flujos de trabajo y asegurar que las soluciones sean eficientes a nivel de infraestructura.
 
 ---
 * [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://github.com/[TuUsuario])
