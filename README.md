@@ -11,12 +11,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
 </p>
 
-# 🔥 Emmanuel Velásquez {EMASTER-DEV}: INNOVACIÓN Y ARQUITECTURA DIGITAL
-
-[![Ingeniero de Software](https://img.shields.io/badge/INGENIERO%20DE%20SOFTWARE-00FF00?style=for-the-badge&logo=codeforces&logoColor=black)](https://github.com/[TuUsuario])
+[![Ingeniero en Desarrollo de Software](https://img.shields.io/badge/INGENIERO%20DE%20SOFTWARE-00FF00?style=for-the-badge&logo=codeforces&logoColor=black)](https://github.com/[TuUsuario])
 > 🛠️ Habilidad para construir la arquitectura robusta y escalable que el Frontend necesita para brillar.
 
-[![Lic. en Tecnologías de la Información](https://img.shields.io/badge/LIC.%20EN%20TI-00FF00?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/[TuUsuario])
+[![Licenciado en Tecnologías de la Información en las Organizaciones](https://img.shields.io/badge/LIC.%20EN%20TI-00FF00?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/[TuUsuario])
 > 🌐 Perspectiva estratégica para optimizar flujos de trabajo y asegurar que las soluciones sean eficientes a nivel de infraestructura.
 ---
 🚀 **Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
