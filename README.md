@@ -11,10 +11,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
 </p>
 
-[![INGENIERO EN DESARROLLO DE SOFTWARE](https://img.shields.io/badge/INGENIERO%20EN%20DESARROLLO%20DE%20SOFTWARE-00FF00?style=for-the-badge&logo=codesandbox&logoColor=black)](https://github.com/[TuUsuario])
+[![INGENIERO EN DESARROLLO DE SOFTWARE](https://img.shields.io/badge/INGENIERO%20EN%20DESARROLLO%20DE%20SOFTWARE-1E90FF?style=for-the-badge&logo=codesandbox&logoColor=white)](https://github.com/[TuUsuario])
 > 🛠️ Habilidad para construir la arquitectura robusta y escalable que el Frontend necesita para brillar.
 
-[![LIC. EN TECNOLOGÍAS DE LA INFORMACIÓN EN LAS ORGANIZACIONES](https://img.shields.io/badge/LIC.%20EN%20TI%20EN%20LAS%20ORGANIZACIONES-00FF00?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/[TuUsuario])
+[![LIC. EN TECNOLOGÍAS DE LA INFORMACIÓN EN LAS ORGANIZACIONES](https://img.shields.io/badge/LIC.%20EN%20TI%20EN%20LAS%20ORGANIZACIONES-1E90FF?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/[TuUsuario])
 > 🌐 Perspectiva estratégica para optimizar flujos de trabajo y asegurar que las soluciones sean eficientes a nivel de infraestructura.
 ---
 🚀 **Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
