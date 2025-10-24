@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola, soy Emaster Dev! 👋 
+# 🔥¡Hola, soy Emaster Dev!🔥
 
 <img width="125" height="156" alt="Captura de pantalla 2025-10-12 a la(s) 5 04 50 p m" src="https://github.com/user-attachments/assets/02e188ca-8bad-43c6-892b-adc3a3e5660a"/>&nbsp;`Print("Programar se esribe programando")`
 
@@ -6,7 +6,7 @@
 [![INGENIERO EN DESARROLLO DE SOFTWARE](https://img.shields.io/badge/INGENIERO%20EN%20DESARROLLO%20DE%20SOFTWARE-1E90FF?style=for-the-badge&logo=codesandbox&logoColor=white)](https://github.com/[TuUsuario])  [![LICENCIADO EN TECNOLOGÍAS DE LA INFORMACIÓN EN LAS ORGANIZACIONES](https://img.shields.io/badge/LIC.%20EN%20TI%20EN%20LAS%20ORGANIZACIONES-1E90FF?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/[TuUsuario])
 
 ---
-🚀 **Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
+🔥**Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
 
 Soy un desarrollador con experiencia en múltiples lenguajes de programación, desde los clásicos como COBOL y C++, hasta tecnologías modernas como Solidity, JavaScript y Swift. Me gusta construir soluciones que impacten, aprender todos los días, y colaborar en proyectos open.
 
@@ -15,7 +15,7 @@ Persona proactiva, organizada y responsable, con una gran disposición para la r
 <!-- Arte ASCII personalizado -->
 Este espacio no es solo una carpeta más con líneas de código; es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales.
 
-****#SIGUEME EN REDES SOCIALES****
+****#SIGUEME EN REDES SOCIALES📲****
 -----------------------
 [![Facebook](https://img.shields.io/badge/Facebook-Sígueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
 [![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velasquez5528e?s=21)
