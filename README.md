@@ -1,4 +1,5 @@
-# 👨‍💻 ¡Hola, soy Emaster Dev! 👋 
+# 👨‍💻 ¡Hola, soy Emaster Dev! 👋   
+![ema](https://github.com/user-attachments/assets/ab13aa2d-cd70-41b6-a0f1-b0d7b653a3a5)
 
 <img width="125" height="156" alt="Captura de pantalla 2025-10-12 a la(s) 5 04 50 p m" src="https://github.com/user-attachments/assets/02e188ca-8bad-43c6-892b-adc3a3e5660a"/>&nbsp;`Print("Programar se esribe programando")`
 
