@@ -10,7 +10,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
 </p>
+# 💻 [Tu Nombre Completo]: EL ARQUITECTO DE SOFTWARE ⚡
 
+## 🎓 DOBLE POWER PROFESIONAL
+
+Mi perfil combina lo mejor de la **Ingeniería** y la **Estrategia Digital**.
+
+| Título | Enfoque | La Ventaja "Chingona" |
+| :--- | :--- | :--- |
+| **INGENIERO DE SOFTWARE** | Construcción, Diseño y Rendimiento del Código. | 🛠️ Sistemas robustos que están hechos para escalar. |
+| **LICENCIADO EN TECNOLOGÍAS DE LA INFORMACIÓN** | Gestión de Sistemas, Estrategia y Soluciones de TI. | 🌐 Visión de negocio para entregar soluciones que realmente importan. |
+
+---
 🚀 **Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
 
 Soy un desarrollador con experiencia en múltiples lenguajes de programación, desde los clásicos como COBOL y C++, hasta tecnologías modernas como Solidity, JavaScript y Swift. Me gusta construir soluciones que impacten, aprender todos los días, y colaborar en proyectos open.
