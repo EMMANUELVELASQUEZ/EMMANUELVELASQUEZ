@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:00FFD1&height=220&section=header&text=EMASTER%20DEV&fontSize=72&fontColor=00FFD1&fontAlignY=38&desc=Ingeniero%20en%20Desarrollo%20de%20Software&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:00FFD1&height=220&section=header&text=EMASTER%20DEV&fontSize=72&fontColor=00FFD1&fontAlignY=38&desc=&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=print(%22Programar+se+escribe+programando%22)" alt="Typing SVG"/>
