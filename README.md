@@ -139,37 +139,13 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 
 </div>
 
----
-
-## 📡 Actividad Reciente
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emaster5528E&bg_color=0D0D0D&color=00FFD1&line=00FFD1&point=FF4F5E&area=true&hide_border=true" width="100%"/>
-
----
-
-## 📬 Conéctate Conmigo
-
-<div align="center">
-
-| Red Social | Link |
-|:---:|:---|
-| 📘 **Facebook** | [emmanuelvelasquez.315428](https://facebook.com/emmanuelvelasquez.315428) |
-| 🐦 **X / Twitter** | [@velasquez5528e](https://x.com/velasquez5528e) |
-| 📸 **Instagram** | [@emaster5528e](https://www.instagram.com/emaster5528e) |
-| 🎥 **YouTube** | [@elgranemaster5528e](https://youtube.com/@elgranemaster5528e) |
-
-</div>
-
----
 
 <div align="center">
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,50:1a1a2e,100:0D0D0D&height=130&section=footer&text=Emaster%20Dev%20©%202025&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<!-- PROFILE VIEWS COUNTER -->
-![Visitas](https://komarev.com/ghpvc/?username=Emaster5528E&color=00FFD1&style=for-the-badge&label=VISITAS+AL+PERFIL)
-</div>
+
 
 <!-- Encabezado con estilo -->
 <p align="center">
@@ -197,9 +173,6 @@ C++        ▓▓▓▓▓▓▓░░░  80%
 C#         ▓▓▓▓▓▓░░░░  70%
 Swift      ▓▓▓▓░░░░░░  60%
 
-
-    (\__/)
-    (o•.•)   💻
-    / >🕸️>   Soy el SpiderDev, tejo código en la red.
+  Soy el SpiderDev, tejo código en la red.
 
 ## Print("Hola sean bienvenidos");
