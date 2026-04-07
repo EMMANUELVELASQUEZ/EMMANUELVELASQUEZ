@@ -1,80 +1,194 @@
-# 🔥¡Hola, soy Emaster Dev!🔥
+<div align="center">
 
-<img width="125" height="156" alt="Captura de pantalla 2025-10-12 a la(s) 5 04 50 p m" src="https://github.com/user-attachments/assets/02e188ca-8bad-43c6-892b-adc3a3e5660a"/>&nbsp;`Print("Programar se esribe programando")`
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:00FFD1&height=220&section=header&text=EMASTER%20DEV&fontSize=72&fontColor=00FFD1&fontAlignY=38&desc=Ingeniero%20en%20Desarrollo%20de%20Software&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
 
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=print(%22Programar+se+escribe+programando%22)" alt="Typing SVG"/>
 
-[![INGENIERO EN DESARROLLO DE SOFTWARE](https://img.shields.io/badge/INGENIERO%20EN%20DESARROLLO%20DE%20SOFTWARE-1E90FF?style=for-the-badge&logo=codesandbox&logoColor=white)](https://github.com/[TuUsuario])  [![LICENCIADO EN TECNOLOGÍAS DE LA INFORMACIÓN EN LAS ORGANIZACIONES](https://img.shields.io/badge/LIC.%20EN%20TI%20EN%20LAS%20ORGANIZACIONES-1E90FF?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/[TuUsuario])
+<!-- BADGES ROW -->
+<br/>
+
+[![Ingeniero Dev](https://img.shields.io/badge/INGENIERO_EN_DESARROLLO_DE_SOFTWARE-00FFD1?style=for-the-badge&logo=codesandbox&logoColor=0D0D0D)](https://github.com/Emaster5528E)
+[![Lic TI](https://img.shields.io/badge/LIC._EN_TI_EN_LAS_ORGANIZACIONES-1a1a2e?style=for-the-badge&logo=oracle&logoColor=00FFD1&labelColor=0D0D0D)](https://github.com/Emaster5528E)
+[![Años Exp](https://img.shields.io/badge/5_AÑOS_DE_EXPERIENCIA-FF4F5E?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Emaster5528E)
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/velasquez5528e)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/emaster5528e)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@elgranemaster5528e)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Emaster5528E)
+
+</div>
 
 ---
-🔥**Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
 
-Soy un desarrollador con experiencia en múltiples lenguajes de programación, desde los clásicos como COBOL y C++, hasta tecnologías modernas como Solidity, JavaScript y Swift. Me gusta construir soluciones que impacten, aprender todos los días, y colaborar en proyectos open.
+<div align="center">
 
-Persona proactiva, organizada y responsable, con una gran disposición para la realización de sus labores. Apasionado por la tecnología y el desarrollo de software, con sólidos conocimientos en Python y experiencia en la creación de aplicaciones en Java, así como en desarrollo web utilizando HTML, CSS y JavaScript. 
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   (\__/)   💻  BIENVENIDO A MI UNIVERSO DE CÓDIGO           ║
+║   (•ω•)       5 años de desveladas, bugs legendarios         ║
+║   / >🕸️>      y proyectos que marcaron mi camino            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<!-- Arte ASCII personalizado -->
-Este espacio no es solo una carpeta más con líneas de código; es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales.
-
-****#SIGUEME EN REDES SOCIALES 📲****
------------------------
-[![Facebook](https://img.shields.io/badge/Facebook-Sígueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
-[![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velasquez5528e?s=21)
-[![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr)
-[![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)
+</div>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorios+que+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
+
+## 👨‍💻 Sobre Mí
+
+```yaml
+nombre:       Emmanuel Velásquez  # Emaster Dev
+rol:          Ingeniero en Desarrollo de Software
+experiencia:  5 años construyendo software real
+pasión:       Código limpio, retos difíciles, aprendizaje constante
+mentalidad:   "Si funciona, mejóralo. Si no funciona, entiéndelo."
+estado:       Always coding... 🟢
+```
+
+> _"Este repositorio no es solo una carpeta con líneas de código — es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales."_
+
+---
+
+## 🚀 Stack Tecnológico Completo
+
+### 🌐 Frontend & Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vue,sass" />
 </p>
 
-<!-- Encabezado con estilo -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
+### ⚙️ Backend & Core Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,php,ruby,nodejs,express,spring" />
 </p>
 
-## 🔥 TECNOLOGÍAS CLAVE EN MIS PROYECTOS
+### 🔧 Sistemas & Rendimiento
 
-Dominio en lenguajes y herramientas que mueven el mundo digital:
-
-| CATEGORÍA | TECNOLOGÍAS ASOMBROSAS |
-| :---: | :--- |
-| **Poder Web (Frontend & React)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/> |
-| **Fuerza Bruta (Backend & Core)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="45" height="45" alt="Ruby"/> |
-| **Sistemas y Rendimiento (C/C++ & Swift)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" height="45" alt="Swift"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/> |
-| **Dominio de Datos (SQL & MySQL)** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" width="45" height="45" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> |
-
----
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
----
-<!-- Encabezado con estilo -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO;+PROGRAMACI%C3%93N+EMASTER" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,swift,rust" />
 </p>
-<img width="250" height="250" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/e6262faf-5ead-468d-8e6e-fe7da4db79ee" />
-<img width="250" height="250" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/022cf35e-090b-4653-9cf7-2b30d9c6cc56" />
-<img width="250" height="250" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/022cf35e-090b-4653-9cf7-2b30d9c6cc56" />
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" />
+</p>
+
+### 🛠️ DevOps & Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio,bash,postman" />
+</p>
+
+### 🔗 Blockchain & Otros
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="COBOL (legacy)" style="display:none"/>
+  &nbsp;<img src="https://img.shields.io/badge/COBOL-005C84?style=for-the-badge&logo=ibm&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+</p>
 
 ---
 
-```txt
-## 🧠 Habilidades Técnicas
+## 📊 Nivel de Dominio
 
-Java       ▓▓▓▓▓▓▓▓▓▓ 100%
-Python     ▓▓▓▓▓▓▓▓▓░  90%
-Kotlin     ▓▓▓▓▓▓▓▓░░  85%
-JavaScript ▓▓▓▓▓▓▓▓░░  85%
-HTML/CSS   ▓▓▓▓▓▓▓▓▓░  90%
-PHP        ▓▓▓▓▓▓▓░░░  75%
-Solidity   ▓▓▓▓▓▓░░░░  70%
-Ruby       ▓▓▓▓▓░░░░░  65%
-COBOL      ▓▓▓▓▓▓░░░░  70%
-C++        ▓▓▓▓▓▓▓░░░  80%
-C#         ▓▓▓▓▓▓░░░░  70%
-Swift      ▓▓▓▓░░░░░░  60%
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  HABILIDADES TÉCNICAS                        NIVEL              │
+├─────────────────────────────────────────────────────────────────┤
+│  Java            ████████████████████  100%  ⭐ EXPERTO        │
+│  Python          ██████████████████░░   90%  🔥 AVANZADO       │
+│  HTML / CSS      ██████████████████░░   90%  🔥 AVANZADO       │
+│  Kotlin          █████████████████░░░   85%  💪 AVANZADO       │
+│  JavaScript      █████████████████░░░   85%  💪 AVANZADO       │
+│  C++             ████████████████░░░░   80%  💪 SÓLIDO         │
+│  PHP             ███████████████░░░░░   75%  ✅ SÓLIDO         │
+│  Solidity        ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
+│  C#              ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
+│  COBOL           ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
+│  Ruby            █████████████░░░░░░░   65%  📈 INTERMEDIO     │
+│  Swift           ████████████░░░░░░░░   60%  📈 EN CRECIMIENTO │
+└─────────────────────────────────────────────────────────────────┘
+```
 
+---
 
-    (\__/)
-    (o•.•)   💻
-    / >🕸️>   Soy el SpiderDev, tejo código en la red.
+## 📈 Estadísticas de GitHub
 
-## Print("Hola sean bienvenidos");
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emaster5528E&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaster5528E&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emaster5528E&theme=dark&hide_border=true&background=0D0D0D&stroke=00FFD1&ring=00FFD1&fire=FF4F5E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=888888" width="600"/>
+
+</div>
+
+---
+
+## 🏆 Trofeos GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Emaster5528E&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+---
+
+## 🔥 Proyectos Destacados
+
+<div align="center">
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaster5528E&repo=TU_REPO_1&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff)](https://github.com/Emaster5528E)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaster5528E&repo=TU_REPO_2&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff)](https://github.com/Emaster5528E)
+
+</div>
+
+---
+
+## 📡 Actividad Reciente
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emaster5528E&bg_color=0D0D0D&color=00FFD1&line=00FFD1&point=FF4F5E&area=true&hide_border=true" width="100%"/>
+
+---
+
+## 📬 Conéctate Conmigo
+
+<div align="center">
+
+| Red Social | Link |
+|:---:|:---|
+| 📘 **Facebook** | [emmanuelvelasquez.315428](https://facebook.com/emmanuelvelasquez.315428) |
+| 🐦 **X / Twitter** | [@velasquez5528e](https://x.com/velasquez5528e) |
+| 📸 **Instagram** | [@emaster5528e](https://www.instagram.com/emaster5528e) |
+| 🎥 **YouTube** | [@elgranemaster5528e](https://youtube.com/@elgranemaster5528e) |
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,50:1a1a2e,100:0D0D0D&height=130&section=footer&text=Emaster%20Dev%20©%202025&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<!-- PROFILE VIEWS COUNTER -->
+![Visitas](https://komarev.com/ghpvc/?username=Emaster5528E&color=00FFD1&style=for-the-badge&label=VISITAS+AL+PERFIL)
+
+</div>
