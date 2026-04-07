@@ -122,33 +122,11 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
 
-## 📈 Estadísticas de GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emaster5528E&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaster5528E&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emaster5528E&theme=dark&hide_border=true&background=0D0D0D&stroke=00FFD1&ring=00FFD1&fire=FF4F5E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=888888" width="600"/>
-
-</div>
 
 ---
 
-## 🏆 Trofeos GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Emaster5528E&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
 
 ---
 
