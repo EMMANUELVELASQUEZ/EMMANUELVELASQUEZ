@@ -155,12 +155,6 @@ Swift      ▓▓▓▓░░░░░░  60%
 
 > _"Este espacio no es solo código; es el resultado de aprendizaje constante, noches desveladas frente al monitor, proyectos desafiantes que fueron resueltos, e ideas innovadoras que se hicieron realidad."_
 
-```
-    (\__/)   💻
-    (•ω• )   < "Building in the dark, shipping in the light."
-    / >🕸️>     SpiderDev — tejo código en la red.
-```
-
 ---
 
 ## `>> Ejemplos de Código`
