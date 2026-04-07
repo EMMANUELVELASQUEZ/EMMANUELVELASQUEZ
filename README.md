@@ -31,29 +31,6 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 ---
 
 </div>
-
-```
-██████╗ ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗
-██╔════╝████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║
-█████╗  ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║
-██╔══╝  ██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝
-███████╗██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║    ██████╔╝███████╗ ╚████╔╝ 
-╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  
-```
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=root%40emaster%3A~%24+whoami;%3E+Ingeniero+en+Desarrollo+de+Software;%3E+Lic.+en+TI+en+las+Organizaciones;%3E+5+a%C3%B1os+forjando+c%C3%B3digo+real;%3E+Building+in+the+dark%2C+shipping+in+the+light;%3E+%5B+SYSTEM+ONLINE+%5D+...+iniciando+protocolo" />
-
-</div>
-
-<div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorios+que+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
-</p>
-
-<!-- Encabezado con estilo -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
-</p>
-
 ## 🔥 TECNOLOGÍAS CLAVE EN MIS PROYECTOS
 
 ### 🌐 Frontend & Web
@@ -151,6 +128,30 @@ Swift      ▓▓▓▓░░░░░░  60%
 ## Print("Hola sean bienvenidos");
 
 ```
+
+
+```
+██████╗ ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗
+██╔════╝████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║
+█████╗  ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║
+██╔══╝  ██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+███████╗██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║    ██████╔╝███████╗ ╚████╔╝ 
+╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  
+```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=root%40emaster%3A~%24+whoami;%3E+Ingeniero+en+Desarrollo+de+Software;%3E+Lic.+en+TI+en+las+Organizaciones;%3E+5+a%C3%B1os+forjando+c%C3%B3digo+real;%3E+Building+in+the+dark%2C+shipping+in+the+light;%3E+%5B+SYSTEM+ONLINE+%5D+...+iniciando+protocolo" />
+
+</div>
+
+<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorios+que+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
+</p>
+
+<!-- Encabezado con estilo -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
+</p>
+
 
 > _"Este espacio no es solo código; es el resultado de aprendizaje constante, noches desveladas frente al monitor, proyectos desafiantes que fueron resueltos, e ideas innovadoras que se hicieron realidad."_
 
