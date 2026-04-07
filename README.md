@@ -31,7 +31,7 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 ---
 
 </div>
-## 🔥 TECNOLOGÍAS CLAVE EN MIS PROYECTOS
+🔥 TECNOLOGÍAS CLAVE EN MIS PROYECTOS
 
 ### 🌐 Frontend & Web
 
