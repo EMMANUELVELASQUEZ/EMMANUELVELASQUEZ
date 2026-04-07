@@ -1,41 +1,158 @@
+# 🔥¡Hola, soy Emaster Dev!🔥
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:00ff41&height=180&section=header&animation=twinkling" width="100%"/>
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:00FFD1&height=220&section=header&text=EMASTER%20DEV&fontSize=72&fontColor=00FFD1&fontAlignY=38&desc=&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-```
-███████╗███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗
-██╔════╝████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║
-█████╗  ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║
-██╔══╝  ██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝
-███████╗██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║    ██████╔╝███████╗ ╚████╔╝
-╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝
-```
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=print(%22Programar+se+escribe+programando%22)" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=00FF41&center=true&vCenter=true&width=750&lines=>>+Ingeniero+en+Software+%7C+Licenciado+en+TI+<<;>>+SYSTEM+ONLINE...+iniciando+protocolo+<<;>>+Construyo+soluciones+que+impactan+<<;>>+5+a%C3%B1os+forjando+c%C3%B3digo+real+<<;root%40emaster%3A~%24+_" />
-
+<!-- BADGES ROW -->
 <br/>
+<img width="125" height="156" alt="Captura de pantalla 2025-10-12 a la(s) 5 04 50 p m" src="https://github.com/user-attachments/assets/02e188ca-8bad-43c6-892b-adc3a3e5660a"/>&nbsp;Print("Programar se esribe programando")
 
-[![INGENIERO DEV](https://img.shields.io/badge/%3E__INGENIERO_EN_DESARROLLO_DE_SOFTWARE-00FF41?style=for-the-badge&logo=codesandbox&logoColor=000000&labelColor=000000)](https://github.com/Emaster5528E)
-[![LIC TI](https://img.shields.io/badge/%3E__LIC._EN_TI_EN_LAS_ORGANIZACIONES-00cc33?style=for-the-badge&logo=oracle&logoColor=000000&labelColor=000000)](https://github.com/Emaster5528E)
-[![STATUS](https://img.shields.io/badge/STATUS-SYSTEM_ONLINE_%F0%9F%9F%A2-00FF41?style=flat-square&labelColor=000000)](https://github.com/Emaster5528E)
 
-</div>
+[![INGENIERO EN DESARROLLO DE SOFTWARE](https://img.shields.io/badge/INGENIERO%20EN%20DESARROLLO%20DE%20SOFTWARE-1E90FF?style=for-the-badge&logo=codesandbox&logoColor=white)](https://github.com/[TuUsuario])  [![LICENCIADO EN TECNOLOGÍAS DE LA INFORMACIÓN EN LAS ORGANIZACIONES](https://img.shields.io/badge/LIC.%20EN%20TI%20EN%20LAS%20ORGANIZACIONES-1E90FF?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/[TuUsuario])
+
+---
+🔥**Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
+
+Soy un desarrollador con experiencia en múltiples lenguajes de programación, desde los clásicos como COBOL y C++, hasta tecnologías modernas como Solidity, JavaScript y Swift. Me gusta construir soluciones que impacten, aprender todos los días, y colaborar en proyectos open.
+
+Persona proactiva, organizada y responsable, con una gran disposición para la realización de sus labores. Apasionado por la tecnología y el desarrollo de software, con sólidos conocimientos en Python y experiencia en la creación de aplicaciones en Java, así como en desarrollo web utilizando HTML, CSS y JavaScript. 
+
+<!-- Arte ASCII personalizado -->
+Este espacio no es solo una carpeta más con líneas de código; es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales.
+
+****#SIGUEME EN REDES SOCIALES 📲****
+-----------------------
+[![Facebook](https://img.shields.io/badge/Facebook-Sígueme-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
+[![X](https://img.shields.io/badge/X-Sígueme-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/velasquez5528e?s=21)
+[![Instagram](https://img.shields.io/badge/Instagram-Sígueme-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emaster5528e?igsh=MTJkMjJiYmh0eXRxYg%3D%3D&utm_source=qr)
+[![YouTube](https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@elgranemaster5528e?si=XSv3CDoa6jjha741)
 
 ---
 
-## `>> Sobre Mí`
+</div>
 
-```javascript
-const developer = {
-  name:      "Emmanuel Velásquez",
-  alias:     "Emaster Dev",
-  passion:   "Full Stack Engineering",
-  location:  "Veracruz, México",
-  email:     "velasquezemmanuel87@gmail.com",
-  github:    "github.com/Emaster5528E",
-  exp:       "5 años construyendo software real",
-  mindset:   "Programar se escribe programando",
-};
+```
+██████╗ ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗
+██╔════╝████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║
+█████╗  ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║
+██╔══╝  ██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+███████╗██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║    ██████╔╝███████╗ ╚████╔╝ 
+╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  
+```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=root%40emaster%3A~%24+whoami;%3E+Ingeniero+en+Desarrollo+de+Software;%3E+Lic.+en+TI+en+las+Organizaciones;%3E+5+a%C3%B1os+forjando+c%C3%B3digo+real;%3E+Building+in+the+dark%2C+shipping+in+the+light;%3E+%5B+SYSTEM+ONLINE+%5D+...+iniciando+protocolo" />
+
+</div>
+
+<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚧+++++++l+++++Repositorios+que+contiene+5+a%C3%B1os+de+aprendizaje+en+programacion;🔥+Errores,+éxitos+y+código+que+me+marcaron;👨‍💻+Aquí+se+rompe+y+se+reconstruye+con+prop%C3%B3sito" />
+</p>
+
+<!-- Encabezado con estilo -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO" />
+</p>
+
+## 🔥 TECNOLOGÍAS CLAVE EN MIS PROYECTOS
+
+### 🌐 Frontend & Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vue,sass" />
+</p>
+
+### ⚙️ Backend & Core Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,php,ruby,nodejs,express,spring" />
+</p>
+
+### 🔧 Sistemas & Rendimiento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,swift,rust" />
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" />
+</p>
+
+### 🛠️ DevOps & Herramientas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio,bash,postman" />
+</p>
+
+### 🔗 Blockchain & Otros
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="COBOL (legacy)" style="display:none"/>
+  &nbsp;<img src="https://img.shields.io/badge/COBOL-005C84?style=for-the-badge&logo=ibm&logoColor=white"/>
+  &nbsp;<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Nivel de Dominio
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  HABILIDADES TÉCNICAS                        NIVEL              │
+├─────────────────────────────────────────────────────────────────┤
+│  Java            ████████████████████  100%  ⭐ EXPERTO        │
+│  Python          ██████████████████░░   90%  🔥 AVANZADO       │
+│  HTML / CSS      ██████████████████░░   90%  🔥 AVANZADO       │
+│  Kotlin          █████████████████░░░   85%  💪 AVANZADO       │
+│  JavaScript      █████████████████░░░   85%  💪 AVANZADO       │
+│  C++             ████████████████░░░░   80%  💪 SÓLIDO         │
+│  PHP             ███████████████░░░░░   75%  ✅ SÓLIDO         │
+│  Solidity        ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
+│  C#              ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
+│  COBOL           ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
+│  Ruby            █████████████░░░░░░░   65%  📈 INTERMEDIO     │
+│  Swift           ████████████░░░░░░░░   60%  📈 EN CRECIMIENTO │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<!-- Encabezado con estilo -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=700&lines=💻+5+A%C3%91OS+DE+C%C3%93DIGO+REAL;🔥+MI+CAMINO+EN+LA+PROGRAMACI%C3%93N;🚀+APRENDIENDO+%2B+ROMPIENDO+%2B+AVANZANDO;+PROGRAMACI%C3%93N+EMASTER" />
+</p>
+<img width="250" height="250" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/e6262faf-5ead-468d-8e6e-fe7da4db79ee" />
+<img width="250" height="250" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/022cf35e-090b-4653-9cf7-2b30d9c6cc56" />
+<img width="250" height="250" alt="Captura de pantalla 2025-10-12 a la(s) 5 19 30 p m" src="https://github.com/user-attachments/assets/022cf35e-090b-4653-9cf7-2b30d9c6cc56" />
+
+---
+
+```txt
+## 🧠 Habilidades Técnicas
+
+Java       ▓▓▓▓▓▓▓▓▓▓ 100%
+Python     ▓▓▓▓▓▓▓▓▓░  90%
+Kotlin     ▓▓▓▓▓▓▓▓░░  85%
+JavaScript ▓▓▓▓▓▓▓▓░░  85%
+HTML/CSS   ▓▓▓▓▓▓▓▓▓░  90%
+PHP        ▓▓▓▓▓▓▓░░░  75%
+Solidity   ▓▓▓▓▓▓░░░░  70%
+Ruby       ▓▓▓▓▓░░░░░  65%
+COBOL      ▓▓▓▓▓▓░░░░  70%
+C++        ▓▓▓▓▓▓▓░░░  80%
+C#         ▓▓▓▓▓▓░░░░  70%
+Swift      ▓▓▓▓░░░░░░  60%
+
+  Soy el SpiderDev, tejo código en la red.
+
+## Print("Hola sean bienvenidos");
+
 ```
 
 > _"Este espacio no es solo código; es el resultado de aprendizaje constante, noches desveladas frente al monitor, proyectos desafiantes que fueron resueltos, e ideas innovadoras que se hicieron realidad."_
@@ -102,135 +219,3 @@ function transfer(address to, uint256 amount) public {
 ```
 
 ---
-
-## `>> Tecnologías que Domino`
-
-### 🌐 Frontend
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" title="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" title="Vue.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" title="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" title="SASS"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" title="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" title="Ruby"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" title="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" title="Spring"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" title="Django"/>
-</p>
-
-### 🔧 Sistemas & Bajo Nivel
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" title="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" title="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48" title="Swift"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="48" title="Rust"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" title="Go"/>
-</p>
-
-### 🗄️ Bases de Datos
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" title="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" title="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" title="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" title="Oracle"/>
-</p>
-
-### 🛠️ DevOps & Herramientas
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" title="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" title="Bash"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" title="Android Studio"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" title="Postman"/>
-</p>
-
-### 🔗 Blockchain & Legacy
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" title="Solidity"/>
-<img src="https://img.shields.io/badge/COBOL-005C84?style=for-the-badge&logo=ibm&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=ffffff"/>
-</p>
-
----
-
-## `>> Nivel de Dominio`
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  root@emaster:~$ ./benchmark --skills --verbose                       ║
-╠═══════════════════════════════════════════════════════════════════════╣
-║                                                                       ║
-║  Java        [████████████████████] 100%   EXPERTO      ★★★★★       ║
-║  Python      [██████████████████░░]  90%   AVANZADO     ★★★★☆       ║
-║  HTML/CSS    [██████████████████░░]  90%   AVANZADO     ★★★★☆       ║
-║  Kotlin      [█████████████████░░░]  85%   AVANZADO     ★★★★☆       ║
-║  JavaScript  [█████████████████░░░]  85%   AVANZADO     ★★★★☆       ║
-║  C++         [████████████████░░░░]  80%   SOLIDO       ★★★★☆       ║
-║  PHP         [███████████████░░░░░]  75%   SOLIDO       ★★★☆☆       ║
-║  C#          [██████████████░░░░░░]  70%   INTERMEDIO   ★★★☆☆       ║
-║  Solidity    [██████████████░░░░░░]  70%   INTERMEDIO   ★★★☆☆       ║
-║  COBOL       [██████████████░░░░░░]  70%   LEGACY PRO   ★★★☆☆       ║
-║  Ruby        [█████████████░░░░░░░]  65%   CRECIENDO    ★★★☆☆       ║
-║  Swift       [████████████░░░░░░░░]  60%   CRECIENDO    ★★☆☆☆       ║
-║                                                                       ║
-║  [OK] Benchmark completado — sin errores fatales                     ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `>> Conecta Conmigo`
-
-> ¿Tienes un proyecto interesante? ¡Me encantaría escuchar de ti!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-velasquezemmanuel87%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000)](mailto:velasquezemmanuel87@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Emaster5528E-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/Emaster5528E)
-[![Location](https://img.shields.io/badge/Ubicación-Veracruz%2C_México-00FF41?style=for-the-badge&logo=googlemaps&logoColor=000000&labelColor=000000)](https://github.com/Emaster5528E)
-
-<br/>
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=000000)](https://facebook.com/emmanuelvelasquez.315428)
-[![X](https://img.shields.io/badge/X_Twitter-ffffff?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000)](https://x.com/velasquez5528e)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=000000)](https://www.instagram.com/emaster5528e)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=000000)](https://youtube.com/@elgranemaster5528e)
-[![Web](https://img.shields.io/badge/Website-emaster55.neocities.org-00FF41?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=000000)](https://emaster55.neocities.org/)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitas](https://komarev.com/ghpvc/?username=Emaster5528E&color=00FF41&style=for-the-badge&label=ACCESOS+AL+SISTEMA&labelColor=000000)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:001400,100:000000&height=130&section=footer&text=root%40emaster%3A~%24+exit+0&fontSize=20&fontColor=00ff41&fontAlignY=65&animation=twinkling" width="100%"/>
-
-</div>
