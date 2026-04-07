@@ -122,30 +122,7 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-
-
-
----
-
-
----
-
-## 🔥 Proyectos Destacados
-
 <div align="center">
-
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaster5528E&repo=TU_REPO_1&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff)](https://github.com/Emaster5528E)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaster5528E&repo=TU_REPO_2&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff)](https://github.com/Emaster5528E)
-
-</div>
-
-
-<div align="center">
-
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,50:1a1a2e,100:0D0D0D&height=130&section=footer&text=Emaster%20Dev%20©%202025&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-
 
 <!-- Encabezado con estilo -->
 <p align="center">
@@ -176,3 +153,5 @@ Swift      ▓▓▓▓░░░░░░  60%
   Soy el SpiderDev, tejo código en la red.
 
 ## Print("Hola sean bienvenidos");
+
+
