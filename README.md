@@ -15,8 +15,6 @@
 [![INGENIERO EN DESARROLLO DE SOFTWARE](https://img.shields.io/badge/INGENIERO%20EN%20DESARROLLO%20DE%20SOFTWARE-1E90FF?style=for-the-badge&logo=codesandbox&logoColor=white)](https://github.com/[TuUsuario])  [![LICENCIADO EN TECNOLOGÍAS DE LA INFORMACIÓN EN LAS ORGANIZACIONES](https://img.shields.io/badge/LIC.%20EN%20TI%20EN%20LAS%20ORGANIZACIONES-1E90FF?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/[TuUsuario])
 
 ---
-🔥**Desarrollador | Apasionado por el código limpio y los retos tecnológicos**
-
 Soy un desarrollador con experiencia en múltiples lenguajes de programación, desde los clásicos como COBOL y C++, hasta tecnologías modernas como Solidity, JavaScript y Swift. Me gusta construir soluciones que impacten, aprender todos los días, y colaborar en proyectos open.
 
 Persona proactiva, organizada y responsable, con una gran disposición para la realización de sus labores. Apasionado por la tecnología y el desarrollo de software, con sólidos conocimientos en Python y experiencia en la creación de aplicaciones en Java, así como en desarrollo web utilizando HTML, CSS y JavaScript. 
