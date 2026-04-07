@@ -1,4 +1,3 @@
-# 🔥¡Hola, soy Emaster Dev!🔥
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
