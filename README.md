@@ -1,26 +1,187 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:00FFD1&height=220&section=header&text=EMASTER%20DEV&fontSize=72&fontColor=00FFD1&fontAlignY=38&desc=Ingeniero%20en%20Desarrollo%20de%20Software&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" width="100%"/>
+<!-- HEADER HACKER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,100:00ff41&height=200&section=header&text=%3E_EMASTER_DEV&fontSize=65&fontColor=00ff41&fontAlignY=40&desc=%5B%20INGENIERO%20EN%20DESARROLLO%20DE%20SOFTWARE%20%5D&descSize=16&descAlignY=65&descColor=00cc33&animation=twinkling" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=print(%22Programar+se+escribe+programando%22)" alt="Typing SVG"/>
+</div>
 
-<!-- BADGES ROW -->
-<br/>
+```
+██████╗ ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗
+██╔════╝████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ██╔══██╗██╔════╝██║   ██║
+█████╗  ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝    ██║  ██║█████╗  ██║   ██║
+██╔══╝  ██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+███████╗██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║    ██████╔╝███████╗ ╚████╔╝ 
+╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚══════╝  ╚═══╝  
+```
 
-[![Ingeniero Dev](https://img.shields.io/badge/INGENIERO_EN_DESARROLLO_DE_SOFTWARE-00FFD1?style=for-the-badge&logo=codesandbox&logoColor=0D0D0D)](https://github.com/Emaster5528E)
-[![Lic TI](https://img.shields.io/badge/LIC._EN_TI_EN_LAS_ORGANIZACIONES-1a1a2e?style=for-the-badge&logo=oracle&logoColor=00FFD1&labelColor=0D0D0D)](https://github.com/Emaster5528E)
-[![Años Exp](https://img.shields.io/badge/5_AÑOS_DE_EXPERIENCIA-FF4F5E?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Emaster5528E)
+<div align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=root%40emaster%3A~%24+whoami;%3E+Ingeniero+en+Desarrollo+de+Software;%3E+Lic.+en+TI+en+las+Organizaciones;%3E+5+a%C3%B1os+forjando+c%C3%B3digo+real;%3E+Building+in+the+dark%2C+shipping+in+the+light;%3E+%5B+SYSTEM+ONLINE+%5D+...+iniciando+protocolo" />
 
-<!-- SOCIAL BADGES -->
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/emmanuelvelasquez.315428)
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/velasquez5528e)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/emaster5528e)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@elgranemaster5528e)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Emaster5528E)
+</div>
+
+---
+
+<div align="center">
+
+[![OS](https://img.shields.io/badge/OS-Linux%20%2F%20macOS-00FF41?style=flat-square&logo=linux&logoColor=000000&labelColor=000000)](https://github.com/Emaster5528E)
+[![Shell](https://img.shields.io/badge/Shell-Bash%20%2F%20Zsh-00FF41?style=flat-square&logo=gnubash&logoColor=000000&labelColor=000000)](https://github.com/Emaster5528E)
+[![Editor](https://img.shields.io/badge/Editor-VS%20Code-00FF41?style=flat-square&logo=visualstudiocode&logoColor=000000&labelColor=000000)](https://github.com/Emaster5528E)
+[![Status](https://img.shields.io/badge/STATUS-ALWAYS%20CODING-00FF41?style=flat-square&logo=statuspage&logoColor=000000&labelColor=000000)](https://github.com/Emaster5528E)
+
+</div>
+
+---
+
+## `> whoami`
+
+```bash
+$ cat /etc/emaster.conf
+
+[IDENTITY]
+  nombre     = "Emmanuel Velásquez"
+  alias      = "Emaster Dev / SpiderDev"
+  rol        = "Ingeniero en Desarrollo de Software"
+  grado      = "Lic. en Tecnologías de la Información en las Organizaciones"
+  exp        = "5 años de código real (y mucho café)"
+
+[MINDSET]
+  filosofia  = "Programar se escribe programando"
+  modo       = "Código limpio > código rápido"
+  debug_irl  = true
+  stack_overflow_tabs_abiertas = 47
+
+[STATUS]
+  disponible = true
+  proyectos  = "en construcción permanente"
+  commits_hoy= "los que sean necesarios"
+  burnout    = false  # todavía no ;)
+```
+
+---
+
+## `> ls -la /skills/`
+
+### 🌐 `./frontend/`
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=ffffff)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
+
+</div>
+
+### ⚙️ `./backend/`
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=ffffff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=ffffff)
+
+</div>
+
+### 🔧 `./systems/`
+
+<div align="left">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ffffff)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
+
+</div>
+
+### 🗄️ `./databases/`
+
+<div align="left">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
+
+</div>
+
+### 🛠️ `./devops/`
+
+<div align="left">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=ffffff)
+
+</div>
+
+### 🔗 `./blockchain/`
+
+<div align="left">
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=ffffff)
+![COBOL](https://img.shields.io/badge/COBOL-005C84?style=for-the-badge&logo=ibm&logoColor=ffffff)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=ffffff)
+
+</div>
+
+---
+
+## `> cat skill_levels.log`
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║  root@emaster:~$ ./benchmark --skills --verbose                       ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║  Java        [████████████████████] 100%   EXPERTO     ★★★★★        ║
+║  Python      [██████████████████░░]  90%   AVANZADO    ★★★★☆        ║
+║  HTML/CSS    [██████████████████░░]  90%   AVANZADO    ★★★★☆        ║
+║  Kotlin      [█████████████████░░░]  85%   AVANZADO    ★★★★☆        ║
+║  JavaScript  [█████████████████░░░]  85%   AVANZADO    ★★★★☆        ║
+║  C++         [████████████████░░░░]  80%   SOLIDO      ★★★★☆        ║
+║  PHP         [███████████████░░░░░]  75%   SOLIDO      ★★★☆☆        ║
+║  C#          [██████████████░░░░░░]  70%   INTERMEDIO  ★★★☆☆        ║
+║  Solidity    [██████████████░░░░░░]  70%   INTERMEDIO  ★★★☆☆        ║
+║  COBOL       [██████████████░░░░░░]  70%   LEGACY PRO  ★★★☆☆        ║
+║  Ruby        [█████████████░░░░░░░]  65%   CRECIENDO   ★★★☆☆        ║
+║  Swift       [████████████░░░░░░░░]  60%   CRECIENDO   ★★☆☆☆        ║
+║                                                                       ║
+║  Benchmark OK — 0 errores fatales (esta vez)                         ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> ping social --all`
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-CONNECT-1877F2?style=for-the-badge&logo=facebook&logoColor=ffffff&labelColor=0d0d0d)](https://facebook.com/emmanuelvelasquez.315428)
+[![X](https://img.shields.io/badge/X_Twitter-FOLLOW-ffffff?style=for-the-badge&logo=x&logoColor=000000&labelColor=0d0d0d)](https://x.com/velasquez5528e)
+[![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=0d0d0d)](https://www.instagram.com/emaster5528e)
+[![YouTube](https://img.shields.io/badge/YouTube-SUSCRIBETE-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff&labelColor=0d0d0d)](https://youtube.com/@elgranemaster5528e)
 
 </div>
 
@@ -29,166 +190,17 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   (\__/)   💻  BIENVENIDO A MI UNIVERSO DE CÓDIGO           ║
-║   (•ω•)       5 años de desveladas, bugs legendarios         ║
-║   / >🕸️>      y proyectos que marcaron mi camino            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+    (\__/)   💻
+    (•ω• )   < "Este repo no es una carpeta —
+    / >🕸️>     es el resultado de 5 años forjando código."
+
+    root@emaster:~$ shutdown -h never
+    [SYSTEM] Emaster Dev permanece online.
 ```
 
-</div>
+![Visitas](https://komarev.com/ghpvc/?username=Emaster5528E&color=00FF41&style=for-the-badge&label=ACCESOS+AL+SISTEMA&labelColor=000000)
 
----
-
-## 👨‍💻 Sobre Mí
-
-```yaml
-nombre:       Emmanuel Velásquez  # Emaster Dev
-rol:          Ingeniero en Desarrollo de Software
-experiencia:  5 años construyendo software real
-pasión:       Código limpio, retos difíciles, aprendizaje constante
-mentalidad:   "Si funciona, mejóralo. Si no funciona, entiéndelo."
-estado:       Always coding... 🟢
-```
-
-> _"Este repositorio no es solo una carpeta con líneas de código — es el resultado de 5 años de aprendizaje constante, desveladas frente al monitor, proyectos rotos y reparados, ideas locas que se volvieron reales."_
-
----
-
-## 🚀 Stack Tecnológico Completo
-
-### 🌐 Frontend & Web
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vue,sass" />
-</p>
-
-### ⚙️ Backend & Core Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,php,ruby,nodejs,express,spring" />
-</p>
-
-### 🔧 Sistemas & Rendimiento
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,swift,rust" />
-</p>
-
-### 🗄️ Bases de Datos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" />
-</p>
-
-### 🛠️ DevOps & Herramientas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio,bash,postman" />
-</p>
-
-### 🔗 Blockchain & Otros
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="COBOL (legacy)" style="display:none"/>
-  &nbsp;<img src="https://img.shields.io/badge/COBOL-005C84?style=for-the-badge&logo=ibm&logoColor=white"/>
-  &nbsp;<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-</p>
-
----
-
-## 📊 Nivel de Dominio
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  HABILIDADES TÉCNICAS                        NIVEL              │
-├─────────────────────────────────────────────────────────────────┤
-│  Java            ████████████████████  100%  ⭐ EXPERTO        │
-│  Python          ██████████████████░░   90%  🔥 AVANZADO       │
-│  HTML / CSS      ██████████████████░░   90%  🔥 AVANZADO       │
-│  Kotlin          █████████████████░░░   85%  💪 AVANZADO       │
-│  JavaScript      █████████████████░░░   85%  💪 AVANZADO       │
-│  C++             ████████████████░░░░   80%  💪 SÓLIDO         │
-│  PHP             ███████████████░░░░░   75%  ✅ SÓLIDO         │
-│  Solidity        ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
-│  C#              ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
-│  COBOL           ██████████████░░░░░░   70%  ✅ INTERMEDIO     │
-│  Ruby            █████████████░░░░░░░   65%  📈 INTERMEDIO     │
-│  Swift           ████████████░░░░░░░░   60%  📈 EN CRECIMIENTO │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emaster5528E&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaster5528E&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emaster5528E&theme=dark&hide_border=true&background=0D0D0D&stroke=00FFD1&ring=00FFD1&fire=FF4F5E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=888888" width="600"/>
-
-</div>
-
----
-
-## 🏆 Trofeos GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Emaster5528E&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
-
-## 🔥 Proyectos Destacados
-
-<div align="center">
-
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaster5528E&repo=TU_REPO_1&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff)](https://github.com/Emaster5528E)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=Emaster5528E&repo=TU_REPO_2&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&text_color=ffffff)](https://github.com/Emaster5528E)
-
-</div>
-
----
-
-## 📡 Actividad Reciente
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Emaster5528E&bg_color=0D0D0D&color=00FFD1&line=00FFD1&point=FF4F5E&area=true&hide_border=true" width="100%"/>
-
----
-
-## 📬 Conéctate Conmigo
-
-<div align="center">
-
-| Red Social | Link |
-|:---:|:---|
-| 📘 **Facebook** | [emmanuelvelasquez.315428](https://facebook.com/emmanuelvelasquez.315428) |
-| 🐦 **X / Twitter** | [@velasquez5528e](https://x.com/velasquez5528e) |
-| 📸 **Instagram** | [@emaster5528e](https://www.instagram.com/emaster5528e) |
-| 🎥 **YouTube** | [@elgranemaster5528e](https://youtube.com/@elgranemaster5528e) |
-
-</div>
-
----
-
-<div align="center">
-
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,50:1a1a2e,100:0D0D0D&height=130&section=footer&text=Emaster%20Dev%20©%202025&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-<!-- PROFILE VIEWS COUNTER -->
-![Visitas](https://komarev.com/ghpvc/?username=Emaster5528E&color=00FFD1&style=for-the-badge&label=VISITAS+AL+PERFIL)
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:001a00,100:000000&height=130&section=footer&text=root%40emaster%3A~%24+exit&fontSize=22&fontColor=00ff41&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
