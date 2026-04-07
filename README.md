@@ -58,7 +58,6 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 </p>
 
 ## 🔥 TECNOLOGÍAS CLAVE EN MIS PROYECTOS
-## 🚀 Stack Tecnológico Completo
 
 ### 🌐 Frontend & Web
 
