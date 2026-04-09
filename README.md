@@ -108,21 +108,6 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 ---
 
 ```txt
-## 🧠 Habilidades Técnicas
-
-Java       ▓▓▓▓▓▓▓▓▓▓ 100%
-Python     ▓▓▓▓▓▓▓▓▓░  90%
-Kotlin     ▓▓▓▓▓▓▓▓░░  85%
-JavaScript ▓▓▓▓▓▓▓▓░░  85%
-HTML/CSS   ▓▓▓▓▓▓▓▓▓░  90%
-PHP        ▓▓▓▓▓▓▓░░░  75%
-Solidity   ▓▓▓▓▓▓░░░░  70%
-Ruby       ▓▓▓▓▓░░░░░  65%
-COBOL      ▓▓▓▓▓▓░░░░  70%
-C++        ▓▓▓▓▓▓▓░░░  80%
-C#         ▓▓▓▓▓▓░░░░  70%
-Swift      ▓▓▓▓░░░░░░  60%
-
   Soy el SpiderDev, tejo código en la red.
 
 ## Print("Hola sean bienvenidos");
