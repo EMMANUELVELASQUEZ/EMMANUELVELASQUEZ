@@ -66,8 +66,6 @@ Este espacio no es solo una carpeta más con líneas de código; es el resultado
 ### 🔗 Blockchain & Otros
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" title="COBOL (legacy)" style="display:none"/>
   &nbsp;<img src="https://img.shields.io/badge/COBOL-005C84?style=for-the-badge&logo=ibm&logoColor=white"/>
   &nbsp;<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
